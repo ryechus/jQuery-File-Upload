@@ -19,7 +19,7 @@
         define([
             'jquery',
             'load-image',
-            './jquery.fileupload-process'
+            'fileupload.process'
         ], factory);
     } else if (typeof exports === 'object') {
         // Node/CommonJS:
